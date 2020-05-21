@@ -19,8 +19,6 @@ Arturia CZ V (Basic)
 Arturia DX7 V (Basic)
 Softube Weiss Compressor Limiter (Ganged Only)
 Output Portal (FX2 section incomplete)
-some of the Voxengo plugs don't have a lot to automate.
+Some of the Voxengo plugs don't have a lot to automate.
 
 I tried to include only my original panels in this repo at this time. My apologies if I inadvertently included any others I downloaded/modified.
-
-There are a couple in here that were previously published by others that I had to remade either because I had to due to VST IDs or personal preference.
